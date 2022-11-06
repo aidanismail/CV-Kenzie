@@ -1,0 +1,94 @@
+body {
+  background-image: linear-gradient(to right top, #006c38, #01753d, #037e43, #058748, #07904e, #089a54, #08a459, #09ae5f, #08bb66, #08c96d, #08d774, #08e57b);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sma {
+  margin-left: 67%;
+  height: auto;
+  width: 150px;
+}
+.sman5 {
+  text-align: center;
+  margin-left: 43.2%;
+  color: white;
+  margin-bottom: 1em;
+}
+.out-border {
+  border-color: #1d2e31;
+  border-style: solid;
+  border-width: 1em;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 1em;
+}
+.in-border {
+  border-width: 1em;
+  border-style: solid;
+  border-color: white;
+  padding: 0 0 0 0;
+  padding-bottom: 0.5em;
+  background-color: white;
+}
+.in-margin {
+  background-color: white;
+}
+hr {
+  margin-bottom: 1.25em;
+  margin-top: 1.25em;
+  height: 0.2em;
+  border-style: solid;
+  border-color:#020d88;
+  background-color: #020d88;
+}
+img {
+  width: auto;
+  height: 230px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 2px;
+}
+h1 {
+  margin: 0 0 0 0;
+  font-size: medium;
+  margin-top: 8px;
+}
+p {
+  margin: 0 0 0 0;
+}
+ul{
+  margin: 0 0 0 0;
+}
+.name {
+  text-align: center;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+.contacts {
+  text-align: center;
+}
+.deskripsi-saya {
+  text-align: justify;
+}
+.jabatan {
+  font-style: italic;
+}
+.skolah {
+  font-weight: bold;
+}
+.tempat-sekolah{
+  float: right !important;
+}
+.keahlian {
+  font-weight: bold;
+}
+.foot {
+  margin-top: 2.5em;
+  text-align: center;
+  border-style: solid;
+  background-color: white;
+  border-color: white;
+  margin-bottom: 0;
+  border-width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
